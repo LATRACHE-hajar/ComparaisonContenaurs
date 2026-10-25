@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792428466 source:c:\users\u\onedrive\bureau\myprojectsgtk3\tprecherche\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<chrono>
+	<list>
+
